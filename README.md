@@ -32,7 +32,9 @@ Methodologies of the Project:
 Conclusion:The Online Ticket Booking System automates seat reservation, cancellation, and availability tracking, improving efficiency and user experience. Built using Object-Oriented Programming (OOP), it ensures modularity, scalability, and ease of maintenance. The system provides a user-friendly interface, real-time updates, and data validation to prevent errors. With methodologies like Test-Driven Development (TDD) and Agile, it is developed incrementally, making it adaptable for various applications such as event management and transportation.
 
 NAME: HARSH ASHWINSINH RAJPUT
+||
 ENROLL NO.: 2203031050538
+||
 CLASS: CSE 6B6
 
 
