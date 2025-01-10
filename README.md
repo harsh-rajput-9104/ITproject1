@@ -1,17 +1,38 @@
-# Online ticket system
+# Online Ticket Booking System
 
 ## Description
-This project helps to...
-1. View Seats
-2. Book a Ticket
-3. Cancel a Ticket
-4. Show Booking Summary
+Introduction:
+The Online Ticket Booking System is a Python-based application designed to simplify and streamline the process of reserving, canceling, and managing seat bookings. By leveraging object-oriented programming (OOP), this system provides a dynamic and interactive way for users to book tickets in a structured seating arrangement, making it suitable for theaters, events, or travel systems.
+
+Problem domain: The problem domain focuses on solving issues related to manual booking, tracking, and cancellations by providing an automated and user-friendly solution.
+
+Solution domain: The solution domain focuses on delivering a reliable, user-friendly, and efficient system for managing seat reservations, cancellations, and real-time availability tracking.
+
+Technologies used:
+1. Programming Language: Python
+2. Data Structures
+3. Development Environment: Visual Studio Code (VS Code)
+4. Runtime Environment:Python Interpreter
+5. Extensions and Libraries
+
+Data structures used:
+1. 2D List (List of Lists)
+2. Strings
+3. Integers
+4. Lists
+
+Methodologies of the Project:
+1. Object-Oriented Programming (OOP)
+2. Iterative Development
+3. User-Centered Design (UCD)
+4. Test-Driven Development (TDD)
+5. Modular Development
+6. Agile Project Management (Flexible Approach)
+
+Conclusion:The Online Ticket Booking System automates seat reservation, cancellation, and availability tracking, improving efficiency and user experience. Built using Object-Oriented Programming (OOP), it ensures modularity, scalability, and ease of maintenance. The system provides a user-friendly interface, real-time updates, and data validation to prevent errors. With methodologies like Test-Driven Development (TDD) and Agile, it is developed incrementally, making it adaptable for various applications such as event management and transportation.
 
 NAME: HARSH ASHWINSINH RAJPUT
 ENROLL NO.: 2203031050538
 CLASS: CSE 6B6
 
-## Installation
-Clone the repository:
-   ```bash
-   git clone https://github.com/harsh-rajput-9104/itproject1.git
+
