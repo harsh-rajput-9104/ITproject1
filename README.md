@@ -37,4 +37,5 @@ ENROLL NO.: 2203031050538
 ||
 CLASS: CSE 6B6
 
+![Output_ITproject1](https://github.com/user-attachments/assets/420db33e-be21-45ec-a584-8f503bd404bf)
 
