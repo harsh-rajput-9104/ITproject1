@@ -33,7 +33,7 @@ Conclusion:The Online Ticket Booking System automates seat reservation, cancella
 
 NAME: HARSH ASHWINSINH RAJPUT
 ||
-ENROLL NO.: 2203031050538
+ENROLLMENT NO.: 2203031050538
 ||
 CLASS: CSE 6B6
 
